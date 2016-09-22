@@ -35,5 +35,14 @@
 			"type": "GeoJSONDataSource",
 			"url": "https://raw.githubusercontent.com/mledoze/countries/master/data/fra.geo.json"
 		}
+	},
+	"Grenoble Decoupage": {
+		"type": "LayerConfig",
+		"name": "Grenoble Decoupage",
+		"description": "Description about Grenoble Decoupage",
+		"dataSource": {
+			"type": "GeoJSONDataSource",
+			"url": "http://sig.grenoble.fr/opendata/Decoupage/json/SECTEURS_EPSG4326.json"
+		}
 	}
 }
