@@ -5,8 +5,8 @@
 			"mapView":{
 				"latitude":45.1842206,
 				"longitude":5.680523,
-				"zoomLevel":3,
-				"maxZoom":13
+				"zoomLevel":13,
+				"maxZoom":15
 			},
 			"mapProvider":{
 				"GoogleMap":{
@@ -26,6 +26,7 @@
 			"color": "FE7569",
 			"latCol": "caplat",
 			"longCol": "caplong",
+			"initialShow":true,
 			"markerDescription": "The latitude and longitude for <country> is <caplat> and <caplong> respectively",
 			"description": "Description about Test 1",
 			"dataSource": {
@@ -40,6 +41,7 @@
 			"url": "/img/tree/tree-24-32.png",
 			"latCol": "lat",
 			"longCol": "long",
+			"initialShow":true,
 			"markerDescription": "The latitude and longitude for tree with <code> is <lat> and <long> respectively",
 			"description": "Description about Test 2",
 			"dataSource": {
@@ -51,6 +53,7 @@
 		"Test3": {
 			"type": "LayerConfig",
 			"name": "Test3",
+			"initialShow":false,
 			"description": "Description about Test 3",
 			"dataSource": {
 				"type": "GeoJSONDataSource",
@@ -60,6 +63,7 @@
 		"Grenoble Decoupage": {
 			"type": "LayerConfig",
 			"name": "Grenoble Decoupage",
+			"initialShow":true,
 			"description": "Description about Grenoble Decoupage",
 			"dataSource": {
 				"type": "GeoJSONDataSource",
