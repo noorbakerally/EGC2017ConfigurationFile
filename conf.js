@@ -42,7 +42,7 @@
 		"description": "Description about Grenoble Decoupage",
 		"dataSource": {
 			"type": "GeoJSONDataSource",
-			"url": "http://sig.grenoble.fr/opendata/Decoupage/json/SECTEURS_EPSG4326.json"
+			"url": "https://raw.githubusercontent.com/noorbakerally/EGC2017ConfigurationFile/master/SECTEURS_EPSG4326.json"
 		}
 	}
 }
