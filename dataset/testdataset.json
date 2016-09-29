@@ -1,0 +1,44 @@
+{
+	"name": "ESP_PUBLIC.IDENTITE_ARBRE",
+	"type": "FeatureCollection",
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.7194484599194, 45.1898477165143]
+		},
+		"properties": {
+			"ELEM_POINT_ID": 32196,
+			"CODE": "ESP32900",
+			"NOM": "ESP32900",
+			"GENRE": "VEG",
+			"GENRE_DESC": "VEGETATION",
+			"CATEGORIE": "ESP01",
+			"CATEGORIE_DESC": "Arbre",
+			"SOUS_CATEGORIE": "ESP151",
+			"SOUS_CATEGORIE_DESC": "Arbre de voirie",
+			"CODE_PARENT": "ESP32839",
+			"CODE_PARENT_DESC": "Crs Jaurès pair de PHD/ Lorr",
+			"ADR_SECTEUR": "1",
+			"BIEN_REFERENCE": "AR32900",
+			"GENRE_BOTA": "Lagerstroemia",
+			"ESPECE": "indica",
+			"VARIETE": "Yang",
+			"STADEDEDEVELOPPEMENT": "Arbre jeune",
+			"EQUIPE": null,
+			"REMARQUES": null,
+			"ANNEEDEPLANTATION": "2014",
+			"RAISONDEPLANTATION": null,
+			"TRAITEMENTCHENILLES": null,
+			"COURRIER": null,
+			"IDENTIFIANTPLU": null,
+			"TYPEIMPLANTATIONPLU": null,
+			"INTITULEPROTECTIONPLU": null,
+			"ANNEEABATTAGE": null,
+			"ESSOUCHEMENT": null,
+			"DIAMETREARBRE": null,
+			"CAUSEABATTAGE": null,
+			"COLLECTIVITE": "Grenoble Alpes Métropole"
+		}
+	}]
+}
